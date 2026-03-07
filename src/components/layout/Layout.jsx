@@ -178,7 +178,7 @@ export const Layout = ({ children }) => {
   useKeyboardNavigation();
 
   useEffect(() => {
-    // Add keyboard navigation instructions to console
+    
     console.info(
       "Keyboard Navigation:\n",
       "- Arrow Up/Down or PageUp/PageDown: Navigate between sections\n",
