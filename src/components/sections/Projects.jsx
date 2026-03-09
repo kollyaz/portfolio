@@ -184,7 +184,7 @@ const projects = [
   {
     id: 1,
     title: "Connect Four",
-    description: "A classic Connect Four game built with React and Tailwind CSS.",
+    description: "An interactive web-based adaptation of the classic strategy game, featuring seamless turn-based gameplay and dynamic win detection.",
     image: `${connect}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/connect-four",
@@ -193,7 +193,7 @@ const projects = [
   {
     id: 2,
     title: "Weather App",
-    description: "A weather application that displays the current weather conditions for a given location.",
+    description: "A dynamic real-time weather application providing up-to-date climate metrics, precise location-based forecasting, and an intuitive user interface.",
     image: `${weather}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/weather-app",
@@ -202,7 +202,7 @@ const projects = [
   {
     id: 3,
     title: "Expense Tracker",
-    description: "A simple expense tracker application built with React and Tailwind CSS.",
+    description: "A comprehensive personal finance tool designed to manage daily transactions, intuitively visualize spending patterns, and maintain accurate budgeting records.",
     image: `${expense}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/expense-tracker",
@@ -211,7 +211,7 @@ const projects = [
   {
     id: 4,
     title: "usePopcorn",
-    description: "A movie rating application built with React and Tailwind CSS.",
+    description: "A cinematic discovery platform allowing users to search for films, read detailed synopses, and maintain a personalized watchlist with custom ratings.",
     image: `${popcorn}`,
     techStack: ["React", "JavaScript"],
     githubUrl: "https://github.com/kollyaz/usePopcorn",
@@ -220,7 +220,7 @@ const projects = [
   {
     id: 5,
     title: "Kanban Board App",
-    description: "A kanban board application built with React and Tailwind CSS.",
+    description: "A robust task management solution featuring intuitive column-based organization, customizable workflows, and efficient project tracking for enhanced productivity.",
     image: `${kanban}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/kanban-board",
