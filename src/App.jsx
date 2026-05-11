@@ -16,10 +16,9 @@ function App() {
     <ThemeProvider theme={theme}>
       <GlobalStyles />
       <Layout>
-        {/* Hero section is critical for LCP, so keep it eager loaded */}
+        
         <Hero />
         
-        {/* Wrap non-critical sections in Suspense */}
         <Suspense fallback={<Loader text="Loading projects..." />}>
           <Projects />
         </Suspense>

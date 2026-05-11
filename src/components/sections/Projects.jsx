@@ -188,7 +188,7 @@ const projects = [
     image: `${connect}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/connect-four",
-    liveUrl: "https://connect-four-two-kappa.vercel.app/",
+    liveUrl: "https://connect-four-kollyaz.vercel.app/",
   },
   {
     id: 2,
@@ -197,7 +197,7 @@ const projects = [
     image: `${weather}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/weather-app",
-    liveUrl: "https://weather-app-six-sigma-47.vercel.app/",
+    liveUrl: "https://weather-app-kollyaz.vercel.app/",
   },
   {
     id: 3,
@@ -206,7 +206,7 @@ const projects = [
     image: `${expense}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/expense-tracker",
-    liveUrl: "https://expense-tracker-theta-ashen-38.vercel.app/",
+    liveUrl: "https://expense-tracker-kollyaz.vercel.app/",
   },
   {
     id: 4,
@@ -215,7 +215,7 @@ const projects = [
     image: `${popcorn}`,
     techStack: ["React", "JavaScript"],
     githubUrl: "https://github.com/kollyaz/usePopcorn",
-    liveUrl: "https://use-popcorn-q52d.vercel.app/",
+    liveUrl: "https://use-popcorn-kollyaz.vercel.app/",
   },
   {
     id: 5,
@@ -224,7 +224,7 @@ const projects = [
     image: `${kanban}`,
     techStack: ["React", "JavaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/kollyaz/kanban-board",
-    liveUrl: "https://kanban-board-xi-six.vercel.app/",
+    liveUrl: "https://kanban-board-kollyaz.vercel.app/",
   },
 ];
 
